@@ -1,1 +1,1 @@
-web: python scratch.py
+bot: python scratch.py
